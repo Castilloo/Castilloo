@@ -1,5 +1,5 @@
 # Hola, soy Diego Castillo 👋
-<hr>
+
 
 
 ### Ingeniero mecánico y desarrollador fullstack. 
