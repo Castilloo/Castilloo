@@ -1,6 +1,8 @@
-### Hi there 👋
-
+### Hola, soy Diego Castillo 👋
 <hr>
+# Ingeniero mecánico y desarrollador fullstack. 
+<hr>
+# Skills: HTML, CSS, Javascript, NodeJS. 
 
 <!--
 **Castilloo/Castilloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
