@@ -1,6 +1,9 @@
 ### Hola, soy Diego Castillo 👋
 <hr>
+
+
 # Ingeniero mecánico y desarrollador fullstack. 
+
 # Skills: HTML, CSS, Javascript, NodeJS. 
 
 <!--
