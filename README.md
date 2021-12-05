@@ -4,7 +4,7 @@
 
 ### Ingeniero mecánico y desarrollador fullstack. 
 
-### Skills: HTML, CSS, Javascript, NodeJS. 
+### Skills: HTML, CSS, Javascript, NodeJS y aprendiendo bases de datos... 
 
 <!--
 **Castilloo/Castilloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
