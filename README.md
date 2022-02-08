@@ -2,9 +2,9 @@
 
 #### Fullstack Developer and Engineer. 
 
-- 🔭 HTML, CSS, Javascript, Node.js skills
+- 🔭 HTML, CSS, Javascript, Node.js & MySQL skills
 - ✍️ I'm looking help to contribute and share to community and learn from them.
-- 🌱 I’m currently learning MySQL database
+- 🌱 I’m currently learning React
 <!--
 **Castilloo/Castilloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
