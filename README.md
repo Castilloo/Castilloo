@@ -6,7 +6,7 @@
 - ✍️ I'm looking help to contribute and share to community and learn from them.
 - 🌱 I’m currently learning React
 
-<img src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png">
+<img src="">
 <!--
 **Castilloo/Castilloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
